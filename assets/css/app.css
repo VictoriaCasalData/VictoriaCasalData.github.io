@@ -81,6 +81,42 @@ h4 {
   margin: 15px 0 0;
 }
 
+/*
+  xs: 480px - 767
+  sm: 768px - 991
+  md: 992px - 1199
+  lg: 1200px
+*/
+
+@media (max-width: 767px) {
+  .big_picture {
+    height: 111px;
+    margin-bottom: 20px;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 40px;
+  }
+
+  #about {
+    margin-top: 75px !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .big_picture {
+    height: 242px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .big_picture {
+    height: 320px;
+    margin-bottom: 25px;
+  }
+}
+
 .big_picture.new_idea {
   background-image: url('/assets/images/3.png');
   background-size: 100%;
