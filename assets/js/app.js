@@ -1,4 +1,6 @@
 $('.carousel').carousel();
+$('.links a').tooltip()
+
 $('ul.nav').on('click', 'a', function(event) {
   var $a = $(event.target);
   var anchor = $a.attr('href');
