@@ -1,0 +1,272 @@
+.navbar-default {
+  background: white;
+}
+
+.navbar .navbar-brand {
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 50px;
+  color: black;
+  line-height: 49px;
+  padding: 15px 15px 0;
+}
+
+.navbar-nav a {
+  padding-top: 23px !important;
+  padding-bottom: 23px !important;
+}
+
+.logo h1 {
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 50px;
+}
+
+#carousel .image {
+  width: 100%;
+  height: 400px;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.about {
+  margin-top: 100px !important;
+}
+
+.image.one {
+  background-image: url('/assets/images/1.png');
+}
+
+.image.two {
+  background-image: url('/assets/images/2.png');
+}
+
+.image.three {
+  background-image: url('/assets/images/3.png');
+}
+
+.image.four {
+  background-image: url('/assets/images/4.png');
+}
+
+.image.five {
+  background-image: url('/assets/images/5.png');
+}
+
+.image.six {
+  background-image: url('/assets/images/6.png');
+}
+
+h4 {
+  margin: 30px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+  color: #8E8D8F;
+}
+
+.project {
+  border: 1px solid #A5A5A5;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  margin-bottom: 10px;
+}
+
+.project p {
+  padding: 2px 10px;
+  text-align: center;
+}
+
+.big_picture {
+  width: 100%;
+  height: 400px;
+  margin: 30px 0 0;
+}
+
+.big_picture.new_idea {
+  background-image: url('/assets/images/1.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 30%;
+}
+
+.big_picture.hallway {
+  background-image: url('/assets/images/4.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 30%;
+}
+
+.big_picture.wire {
+  background-image: url('/assets/images/2.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 30%;
+}
+
+.projects .one .project {
+  background-image: url('/assets/images/decay.png');
+  background-color: #FAF5F3;
+}
+
+.projects .two .project {
+  background-image: url('/assets/images/artatbay.png');
+  background-size: 100% auto;
+}
+
+.projects .three .project {
+  background-image: url('/assets/images/405.jpg');
+  background-color: #F1F1F1;
+}
+
+.samples .four .project {
+  background-image: url('/assets/images/csp.jpg');
+}
+
+.samples .five .project {
+  background-image: url('/assets/images/oracle.jpg');
+  background-size: 95% auto;
+}
+
+.samples .six .project {
+  background-image: url('/assets/images/brasky.png');
+}
+
+.project a {
+  display: block;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  -moz-transition: all 0.5s ease-in;
+  -webkit-transition: all 0.5s ease-in;
+  -o-transition: all 0.5s ease-in;
+  transition: all 0.5s ease-in;
+  position: relative;
+}
+
+.project a:hover {
+  background: transparent;
+}
+
+.about .picture {
+  background-image: url('/assets/images/pic.jpg');
+  width: 100%;
+  overflow: hidden;
+  border-radius: 600px;
+}
+
+.about .picture.lg {
+  height: 266px;
+  background-position: -37px -1px;
+  background-size: 140%;
+}
+
+.about .picture.md {
+  margin-top: 15px;
+  height: 214px;
+  background-position: -37px -1px;
+  background-size: 140%;
+}
+
+.about .picture.sm {
+  margin-top: 50px;
+  height: 223px;
+  background-position: -37px -1px;
+  background-size: 140%;
+}
+
+.about p {
+  margin-top: 15px;
+}
+
+.about .links {
+  padding-left: 0;
+  padding-bottom: 1px;
+  margin-bottom: 20px;
+  list-style: none;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 65%;
+  margin-top: 30px;
+}
+
+.about .links li {
+  color: white;
+  background-color: #eee;
+  width: 13%;
+  float: left;
+  margin: 0 8px;
+  font-size: 12px;
+  line-height: 1.4;
+  text-align: center;
+  border: 1px solid #ddd;
+  font-size: 24px;
+  border-radius: 16px;
+  -moz-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.about .links li a {
+  width: 100%;
+  display: block;
+  height: 100%;
+  padding: 4px 0;
+  color: white;
+}
+
+.about .links li a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.about .links .twitter a {
+  color: #1DACEE;
+}
+
+.about .links .twitter:hover {
+  background-color: #1DACEE;
+  border-color: #147AAA;
+}
+
+.about .links .linkedin a {
+  color: #1785BC;
+}
+
+.about .links .linkedin:hover {
+  background-color: #1785BC;
+  border-color: #0F5C84;
+}
+
+.about .links .pinterest a {
+  color: #CA1E25;
+}
+
+.about .links .pinterest:hover {
+  background-color: #CA1E25;
+  border-color: #A61A21;
+}
+
+.about .links .googleplus a {
+  color: #D55238;
+}
+
+.about .links .googleplus:hover {
+  background-color: #D55238;
+  border-color: #AB3526;
+}
+
+.about .links .email a {
+  color: #006633;
+}
+
+.about .links .email:hover {
+  background-color: #006633;
+}
+
+
+.copy p {
+  margin: 30px 0;
+  text-align: center;
+}
