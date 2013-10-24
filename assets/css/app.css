@@ -82,21 +82,21 @@ h4 {
 }
 
 .big_picture.new_idea {
-  background-image: url('/assets/images/1.jpg');
+  background-image: url('/assets/images/3.png');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 30%;
 }
 
 .big_picture.hallway {
-  background-image: url('/assets/images/4.jpg');
+  background-image: url('/assets/images/2.png');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 30%;
 }
 
 .big_picture.wire {
-  background-image: url('/assets/images/2.jpg');
+  background-image: url('/assets/images/1.png');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 30%;
