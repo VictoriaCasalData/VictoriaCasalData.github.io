@@ -287,9 +287,10 @@ h4 {
 */
 
 @media (max-width: 767px) {
-  .big_picture {
-    height: 111px;
+  .big_picture.new_idea, .big_picture.hallway, .big_picture.wire {
+    height: 176px;
     margin-bottom: 20px;
+    background-size: 123%;
   }
 
   .navbar .navbar-brand {
