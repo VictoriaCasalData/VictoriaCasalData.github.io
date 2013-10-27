@@ -157,22 +157,22 @@ h4 {
 
 .about .picture.lg {
   height: 266px;
-  background-position: -37px -1px;
-  background-size: 140%;
+  background-position: 20px -30px;
+  background-size: 90%;
 }
 
 .about .picture.md {
   margin-top: 15px;
   height: 214px;
-  background-position: -37px -1px;
-  background-size: 140%;
+  background-position: 20px -13px;
+  background-size: 90%;
 }
 
 .about .picture.sm {
   margin-top: 50px;
   height: 223px;
-  background-position: -37px -1px;
-  background-size: 140%;
+  background-position: 10px -5px;
+  background-size: 90%;
 }
 
 .about p {
