@@ -2,7 +2,7 @@
 <!-- version 1.0 -->
 <html>
 <head>
-  <title>Victoria Casal-Data | Freelance Bilingual Copywriter | Arts Writer | Tampa Bay</title>
+  <title><%= t('head.title') %></title>
   <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
   <link href='http://fonts.googleapis.com/css?family=La+Belle+Aurore' rel='stylesheet' type='text/css'>
   <link href="http://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
@@ -25,18 +25,18 @@
   <header id="nav" class="navbar navbar-default navbar-fixed-top bs-docs-nav" role="banner">
     <div class="container">
       <div class="navbar-header">
-        <a href="../" class="navbar-brand">Victoria Casal-Data</a>
+        <a href="../" class="navbar-brand"><%= t('navigation.logo') %></a>
       </div>
       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
         <ul class="nav navbar-nav pull-right">
           <li>
-            <a href="#about">About</a>
+            <a href="#about"><%= t('navigation.about') %></a>
           </li>
           <li>
-            <a href="#projects">Blogging</a>
+            <a href="#projects"><%= t('navigation.blogging') %></a>
           </li>
           <li>
-            <a href="#copywriting">Copywriting</a>
+            <a href="#copywriting"><%= t('navigation.copywriting') %></a>
           </li>
         </ul>
       </nav>
@@ -56,41 +56,31 @@
           <a Href='/'>English</a> | <a href='/es'>Español</a>
         </p>
 
-        <div class="about_blurb"><p>Victoria is a freelance bilingual copywriter, arts writer and blogger. She studied Art History
-and Philosophy at the University of South Florida in Tampa and obtained her deegree in Summer 2013.</p>
-<p>Apart from writing about art on local and national/international blog and print art publications,
-Victoria is also experienced with digital marketing. She has knowledge of SEO keyword search, email
-and link building marketing strategies, social media managing, guest blogging, ghost writing,
-professional website copy in English and Spanish, and Spanish-English/English-Spanish translations.</p>
-<p>She is always looking to learn more about her trade and other useful skills. In her spare time,
-you may find Victoria taking online classes about google analytics, modern aesthetics, efficient
-and effective bilingual copywriting, etc. Victoria also enjoys writing on her personal blog:
-<a href="http://onbecomingwhoweare.wordpress.com/" target="_blank"><strong>Becoming who we are</strong></a>.</p>
-</div>
+        <div class="about_blurb"><%= t('about') %></div>
 
         <ul class="links">
           <li class="twitter">
-            <a target="_blank" href="https://twitter.com/vcasalda" title="Follow me on Twitter!">
+            <a target="_blank" href="https://twitter.com/vcasalda" title="<%= t('tooltips.twitter') %>">
               <i class="icon-twitter"></i>
             </a>
           </li>
           <li class="linkedin">
-            <a target="_blank" href="http://www.linkedin.com/pub/victoria-casal-data/5b/417/b74" title="Connect with me on LinkedIn!">
+            <a target="_blank" href="http://www.linkedin.com/pub/victoria-casal-data/5b/417/b74" title="<%= t('tooltips.linkedin') %>">
               <i class="icon-linkedin"></i>
             </a>
           </li>
           <li class="pinterest">
-            <a target="_blank" href="http://www.pinterest.com/vcasalda/" title="Follow me on Pinterest!">
+            <a target="_blank" href="http://www.pinterest.com/vcasalda/" title="<%= t('tooltips.pinterest') %>">
               <i class="icon-pinterest"></i>
             </a>
           </li>
           <li class="googleplus">
-            <a target="_blank" href="https://plus.google.com/u/0/115680260273360040598/posts" title="Follow me on Google Plus!">
+            <a target="_blank" href="https://plus.google.com/u/0/115680260273360040598/posts" title="<%= t('tooltips.google_plus') %>">
               <i class="icon-google-plus"></i>
             </a>
           </li>
           <li class="email">
-            <a target="_blank" href="mailto:victoriacasaldata@gmail.com" title="Email">
+            <a target="_blank" href="mailto:victoriacasaldata@gmail.com" title="<%= t('tooltips.email') %>">
               <i class="icon-envelope"></i>
             </a>
           </li>
@@ -105,32 +95,25 @@ and effective bilingual copywriting, etc. Victoria also enjoys writing on her pe
 
     <div id="projects" class="row projects">
       <div class="col-md-12">
-        <h4>Blogging</h4>
+        <h4><%= t('blogging.header') %></h4>
       </div>
       <div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 one">
         <div class="project">
           <a target="_blank" href="http://beautifuldecay.com/"></a>
         </div>
-        <p>Beautiful Decay is a printed book series and daily art blog with a focus on experimental, grotesque,
-and groundbreaking art.
-</p>
+        <p><%= t('blogging.block_one') %></p>
       </div>
       <div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 two">
         <div class="project">
           <a target="_blank" href="http://artatbay.com/"></a>
         </div>
-        <p>Art at Bay is a blogazine covering Tampa Bay's growing contemporary art scene. We hope to be a
-catalyst to dialogue involving art in Tampa Bay and a conduit for serious thought on art and the
-politics of art making.
-</p>
+        <p><%= t('blogging.block_two') %></p>
       </div>
       <div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 three">
         <div class="project">
           <a target="_blank" href="#"></a>
         </div>
-        <p>The 405 is an award winning online Music &amp; Culture magazine featuring the latest reviews,
-interviews, news, features &amp; much more.
-</p>
+        <p><%= t('blogging.block_three') %></p>
       </div>
     </div>
   </div>
@@ -142,37 +125,28 @@ interviews, news, features &amp; much more.
 
     <div id="copywriting" class="row samples">
       <div class="col-md-12">
-        <h4>Copywriting</h4>
-        <p class="copywriting-blurb">Creativity is one of the most valuable characteristics in someone's work. There is no
-humanity in something if it weren't for the creative factor. I believe that writing copy
-creatively not only enables connections between customer and business owner, but it also
-motivates, inspires, informs, and changes minds-as a copywriter, I strive to do exactly that.
-A strong bond is made when a good connection is formed, it is until then that credibility and
-trust further develops between two entities.
-</p>
+        <h4><%= t('copywriting.header') %></h4>
+        <p class="copywriting-blurb"><%= t('copywriting.info') %></p>
       </div>
       <div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 four">
         <div class="project">
           <a href="http://copywritingservicespro.com/author/victoriacasal/" target="_blank"></a>
         </div>
-        <p>Copywriting Services Pro
-</p>
+        <p><%= t('copywriting.block_one') %></p>
       </div>
 
       <div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 five">
         <div class="project">
           <a href="http://www.usforacle.com/digimazing-puts-students-art-on-screen-1.2552614#.UmhqIpTk80P" target="_blank"></a>
         </div>
-        <p>The Oracle - USF Student Newspaper
-</p>
+        <p><%= t('copywriting.block_two') %></p>
       </div>
 
       <div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 six">
         <div class="project">
           <a href="http://newportricheyfloristinc.com/category/new-port-richey-florist-florida/" target="_blank"></a>
         </div>
-        <p>New Port Richey Florist
-</p>
+        <p><%= t('copywriting.block_three') %></p>
       </div>
     </div>
   </div>
@@ -182,7 +156,7 @@ trust further develops between two entities.
     <div class="container">
       <div class="row copy">
         <div class="col-md-12">
-          <p>Copyright &copy; Victoria Casal-Data 2013</p>
+          <p><%= t('copyright') %></p>
         </div>
       </div>
     </div>

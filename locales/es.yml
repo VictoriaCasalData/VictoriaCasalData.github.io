@@ -1,0 +1,62 @@
+# Spanish translation file. Changes made here will show up in /es/index.html
+
+es:
+  head:
+    title: "Victoria Casal-Data | Freelance Bilingual Copywriter | Arts Writer | Tampa Bay"
+
+  navigation:
+    logo: Victoria Casal-Data
+    about: About
+    blogging: Blogging
+    copywriting: Copywriting
+
+  tooltips:
+    twitter: Follow me on Twitter!
+    linkedin: Connect with me on LinkedIn!
+    pinterest: Follow me on Pinterest!
+    google_plus: Follow me on Google Plus!
+    email: Email
+
+  about: |
+    <p>Victoria is a freelance bilingual copywriter, arts writer and blogger. She studied Art History
+    and Philosophy at the University of South Florida in Tampa and obtained her deegree in Summer 2013.</p>
+    <p>Apart from writing about art on local and national/international blog and print art publications,
+    Victoria is also experienced with digital marketing. She has knowledge of SEO keyword search, email
+    and link building marketing strategies, social media managing, guest blogging, ghost writing,
+    professional website copy in English and Spanish, and Spanish-English/English-Spanish translations.</p>
+    <p>She is always looking to learn more about her trade and other useful skills. In her spare time,
+    you may find Victoria taking online classes about google analytics, modern aesthetics, efficient
+    and effective bilingual copywriting, etc. Victoria also enjoys writing on her personal blog:
+    <a href="http://onbecomingwhoweare.wordpress.com/" target="_blank"><strong>Becoming who we are</strong></a>.</p>
+
+  blogging:
+    header: Blogging
+    block_one: |
+      Beautiful Decay is a printed book series and daily art blog with a focus on experimental, grotesque,
+      and groundbreaking art.
+    block_two: |
+      Art at Bay is a blogazine covering Tampa Bay's growing contemporary art scene. We hope to be a
+      catalyst to dialogue involving art in Tampa Bay and a conduit for serious thought on art and the
+      politics of art making.
+    block_three: |
+      The 405 is an award winning online Music &amp; Culture magazine featuring the latest reviews,
+      interviews, news, features &amp; much more.
+
+  copywriting:
+    header: Copywriting
+    info: |
+      Creativity is one of the most valuable characteristics in someone's work. There is no
+      humanity in something if it weren't for the creative factor. I believe that writing copy
+      creatively not only enables connections between customer and business owner, but it also
+      motivates, inspires, informs, and changes minds-as a copywriter, I strive to do exactly that.
+      A strong bond is made when a good connection is formed, it is until then that credibility and
+      trust further develops between two entities.
+    block_one: |
+      Copywriting Services Pro
+    block_two: |
+      The Oracle - USF Student Newspaper
+    block_three: |
+      New Port Richey Florist
+
+  copyright: 'Copyright &copy; Victoria Casal-Data 2013'
+
