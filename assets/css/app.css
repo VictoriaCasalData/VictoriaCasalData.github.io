@@ -92,8 +92,9 @@ h4 {
 }
 
 .projects .three .project {
-  background-image: url('/assets/images/405.jpg');
-  background-color: #F1F1F1;
+  background-image: url('/assets/images/hifructos.png');
+  background-color: #000;
+  background-size: 90% auto;
 }
 
 .samples .four .project {
