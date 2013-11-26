@@ -18,43 +18,42 @@ es:
     email: Email
 
   about: |
-    <p>Victoria is a freelance bilingual copywriter, arts writer and blogger. She studied Art History
-    and Philosophy at the University of South Florida in Tampa and obtained her deegree in Summer 2013.</p>
-    <p>Apart from writing about art on local and national/international blog and print art publications,
-    Victoria is also experienced with digital marketing. She has knowledge of SEO keyword search, email
-    and link building marketing strategies, social media managing, guest blogging, ghost writing,
-    professional website copy in English and Spanish, and Spanish-English/English-Spanish translations.</p>
-    <p>She is always looking to learn more about her trade and other useful skills. In her spare time,
-    you may find Victoria taking online classes about google analytics, modern aesthetics, efficient
-    and effective bilingual copywriting, etc. Victoria also enjoys writing on her personal blog:
-    <a href="http://onbecomingwhoweare.wordpress.com/" target="_blank"><strong>Becoming who we are</strong></a>.</p>
+    <p>Victoria es una redactora freelance bilingüe y blogger que se especializa en el arte contemporáneo y el 
+    marketing digital. Ella estudió Historia del Arte y Filosofía en la Universidad del Sur de Florida en 
+    Tampa y obtuvo su titulo universitario en el verano del 2013.</p>
+    <p>Además de escribir en blogs y publicaciones locales, nacionales e internacionales de arte contemporáneo, 
+    Victoria también tiene experiencia con el marketing digital. Ella posee conocimiento de estrategias de
+    marketing, herramientas para optimizar pagina webs, manejo de redes sociales, blogs corporativos, y
+    traducciones de español al inglés, y inglés al español.</p>
 
   blogging:
     header: Blogging
     block_one: |
-      Beautiful Decay is a printed book series and daily art blog with a focus on experimental, grotesque,
-      and groundbreaking art.
+      Beautiful/Decay es una serie de libros impresos y blog de arte diario que tiene un enfoque en el arte
+      experimental, grotesco, y controversial.
     block_two: |
-      Art at Bay is a blogazine covering Tampa Bay's growing contemporary art scene. We hope to be a
-      catalyst to dialogue involving art in Tampa Bay and a conduit for serious thought on art and the
-      politics of art making.
+      Art at Bay es un blog y revista local que se enfoca en la creciente onda del arte contemporáneo de
+      Tampa Bay. El blog sirve como un catalizador para el diálogo y reflexión seria sobre el arte y la
+      política de la creación artística a un nivel local y nacional. 
     block_three: |
-      The 405 is an award winning online Music &amp; Culture magazine featuring the latest reviews,
-      interviews, news, features &amp; much more.
+      Hi-fructose es una revista de arte trimestral, y blog diario que se centra en el arte que trasciende
+      el género y la tendencia. Hi-fructose presenta una amalgama de artistas contemporáneos emergentes, 
+      y artistas distinguidos que inspiran y trabajan para producir arte que es visualmente interesante 
+      e innovadora. 
 
   copywriting:
-    header: Copywriting
+    header: Redacción
     info: |
-      Creativity is one of the most valuable characteristics in someone's work. There is no
-      humanity in something if it weren't for the creative factor. I believe that writing copy
-      creatively not only enables connections between customer and business owner, but it also
-      motivates, inspires, informs, and changes minds-as a copywriter, I strive to do exactly that.
-      A strong bond is made when a good connection is formed, it is until then that credibility and
-      trust further develops between two entities.
+      La creatividad es una de las características más valiosas en el mundo del marketing. No hay humanidad 
+      en algo si no fuera por el factor creativo. Creo que la composición creativa no sólo permite conexiones
+      entre cliente y propietario de una empresa, pero también motiva, inspira, e informan al lector. El lazo
+      de credibilidad y confianza se produce cuando se forma una buena conexión entre el lector y el proveedor
+      de información, es hasta entonces que se desarrolla una relación leal. Como redactora, me esfuerzo para
+      hacer exactamente esto.
     block_one: |
       Copywriting Services Pro
     block_two: |
-      The Oracle - USF Student Newspaper
+      ProLegalnet 
     block_three: |
       New Port Richey Florist
 
