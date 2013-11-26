@@ -7,8 +7,6 @@ es:
   navigation:
     logo: Victoria Casal-Data
     about: About
-    blogging: Blogging
-    copywriting: Copywriting
 
   tooltips:
     twitter: Follow me on Twitter!
@@ -18,10 +16,10 @@ es:
     email: Email
 
   about: |
-    <p>Victoria es una redactora freelance bilingüe y blogger que se especializa en el arte contemporáneo y el 
-    marketing digital. Ella estudió Historia del Arte y Filosofía en la Universidad del Sur de Florida en 
+    <p>Victoria es una redactora freelance bilingüe y blogger que se especializa en el arte contemporáneo y el
+    marketing digital. Ella estudió Historia del Arte y Filosofía en la Universidad del Sur de Florida en
     Tampa y obtuvo su titulo universitario en el verano del 2013.</p>
-    <p>Además de escribir en blogs y publicaciones locales, nacionales e internacionales de arte contemporáneo, 
+    <p>Además de escribir en blogs y publicaciones locales, nacionales e internacionales de arte contemporáneo,
     Victoria también tiene experiencia con el marketing digital. Ella posee conocimiento de estrategias de
     marketing, herramientas para optimizar pagina webs, manejo de redes sociales, blogs corporativos, y
     traducciones de español al inglés, y inglés al español.</p>
@@ -34,17 +32,17 @@ es:
     block_two: |
       Art at Bay es un blog y revista local que se enfoca en la creciente onda del arte contemporáneo de
       Tampa Bay. El blog sirve como un catalizador para el diálogo y reflexión seria sobre el arte y la
-      política de la creación artística a un nivel local y nacional. 
+      política de la creación artística a un nivel local y nacional.
     block_three: |
       Hi-fructose es una revista de arte trimestral, y blog diario que se centra en el arte que trasciende
-      el género y la tendencia. Hi-fructose presenta una amalgama de artistas contemporáneos emergentes, 
-      y artistas distinguidos que inspiran y trabajan para producir arte que es visualmente interesante 
-      e innovadora. 
+      el género y la tendencia. Hi-fructose presenta una amalgama de artistas contemporáneos emergentes,
+      y artistas distinguidos que inspiran y trabajan para producir arte que es visualmente interesante
+      e innovadora.
 
   copywriting:
     header: Redacción
     info: |
-      La creatividad es una de las características más valiosas en el mundo del marketing. No hay humanidad 
+      La creatividad es una de las características más valiosas en el mundo del marketing. No hay humanidad
       en algo si no fuera por el factor creativo. Creo que la composición creativa no sólo permite conexiones
       entre cliente y propietario de una empresa, pero también motiva, inspira, e informan al lector. El lazo
       de credibilidad y confianza se produce cuando se forma una buena conexión entre el lector y el proveedor
@@ -53,7 +51,7 @@ es:
     block_one: |
       Copywriting Services Pro
     block_two: |
-      ProLegalnet 
+      ProLegalnet
     block_three: |
       New Port Richey Florist
 
